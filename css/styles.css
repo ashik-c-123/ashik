@@ -1,0 +1,47 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+.gradient {
+    background: rgb(255, 55, 55);
+    background: linear-gradient(54deg, rgba(255, 55, 55, 1) 0%, rgb(255, 163, 163) 100%);
+}
+
+.hero {
+    margin-top: 1.2rem;
+}
+
+.text {
+    color: #fff;
+    font-size: 20px;
+}
+
+.text2 {
+    color: #fff;
+    font-size: 15px;
+}
+
+.text ul li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.icon {
+    height: 80px;
+    width: 80px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.project {
+    background: rgb(255, 228, 228);
+    background: linear-gradient(54deg, rgb(245, 240, 240) 0%, rgb(255, 236, 236) 100%);
+}
